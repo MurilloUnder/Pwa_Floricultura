@@ -1,0 +1,516 @@
+[
+	{
+		"id": 1,
+		"name": "Rosas do Deserto",
+		"image": "images/rosa_deserto_001.png",
+		"address": "Av Rosa do Deserto, n° 01 - Centro, Goiânia \/ Goias, Brasil - CEP 123456",
+		"site": "http:\/\/www.AdeniumObesum.com.br\/",
+		"bio": "Planta de clima desértico, a rosa-do-deserto tem flores vibrantes e caule grosso quando cultivada em ambientes de intensa insolação e bem oxigenados. A Adenium obesum, da família Apocynaceae, é avessa a baixas temperaturas e solo encharcado. Podendo chegar a quatro metros de altura, ela é encontrada em tons de rosa e branco, sobretudo, e nas cores amarelo, laranja, vermelho, violeta e até preta.",
+		"created_at": "2022-12-10T01:44:24.000000Z",
+		"updated_at": "2022-12-10T01:44:24.000000Z",
+		"flowershop": [
+			{
+				"id": 1,
+				"brewery_id": 1,
+				"name": "Rosa do Deserto: Adenium Obesum",
+				"image": "images/Adenium_obesum.png",
+				"style": "Adenium Obesum",
+				"category": "Cactos e Suculentas, Flores Perenes",
+				"active": "SIM",
+				"flower": "Flores tubulares, simples, com cinco pétalas. Cores variadas, indo do branco ao vinho escuro, diferentes tons de rosa e vermelho.",
+				"description": "\nÉ uma espécie originalíssima! com uma coloração que varia do branco ao vermelho, passando por um rosa magnífico, e que desenvolve-se com todo o seu vigor quando exposta a um clima quente, seco, em um solo drenável, nutritivo – e não suscetível a geadas, frio intenso ou outras condições semelhantes.\n",
+				"created_at": "2022-12-10T19:52:41.000000Z",
+				"updated_at": "2022-12-12T17:47:48.000000Z"
+			},
+			{
+				"id": 2,
+				"brewery_id": 1,
+				"name": "Rosa do Deserto: Adenium multiflorum",
+				"image": "images/Adenium_multiflorum_001.png",
+				"style": "Adenium multiflorum",
+				"category": "Cactos e Suculentas, Flores Perenes",
+				"active": "SIM",
+				"flower": "A Adenium multiflorum, é um dos tipos de rosa do deserto que se desenvolve muito bem em regiões com o clima mais frio. Como característica, ela floresce uma linda flor em formato de estrela que varia entre as cores branca, vermelha ou rosa.",
+				"description": "\nEssa rosa do deserto é frequentemente apresentada como uma variedade da Adenium obesum, porém é bastante diferente em diversos aspectos. É provavelmente o segundo tipo de rosa do deserto mais comum. Essa variedade possui um tronco mais delgado que Adenium obesum, e, obrigatoriamente, entra em dormência no inverno. Sua florada dura de 3 a 4 meses no inverno, enquanto fica sem folhas. As flores são abundantes e possivelmente as mais marcantes de todo o grupo. As pétalas possuem, em suas bordas, uma faixa vermelha brilhante de larguras variadas que é nitidamente delimitada das partes internas, que são mais brancas. Essa rosa do deserto é originária de Moçambique e países vizinhos ao sudeste da África\n",
+				"created_at": "2022-12-10T19:52:41.000000Z",
+				"updated_at": "2022-12-12T17:47:49.000000Z"
+			},
+			{
+				"id": 3,
+				"brewery_id": 1,
+				"name": "Rosa do Deserto: Adenium Somalense",
+				"image": "images/Adenium_Somalense003.png",
+				"style": "Adenium Somalense",
+				"category": "Cactos e Suculentas, Flores Perenes",
+				"active": "SIM",
+				"flower": "A Adenium Somalense, possui algumas diferenças, como o caule de coloração mais brilhante e base arredondada, e as folhas mais oblíquas e alongadas. É uma planta herbácea, suculenta, de aspecto escultural e floração exuberante",
+				"description": "\nEssa espécie de rosa do deserto trata-se de outra variável. Naturalmente pode ser encontrada ao sul da Somália, no Quênia e na Tanzânia. Em seu habitat natural, esta planta se torna uma pequena árvore, com aproximadamente 4,5 metros de altura, e com um tronco massivamente inchado. Em outras áreas, essa rosa do deserto é mais arbustiva e semelhante à Adenium obesum. Suas flores são um pouco menores, porém similares àquelas apresentadas pela A. obesum\n",
+				"created_at": "2022-12-10T19:52:41.000000Z",
+				"updated_at": "2022-12-12T17:47:50.000000Z"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Tulipas",
+		"image": "images/Logo_tulipa_001.png",
+		"address": "Rua das Tulipas, n° 01 - Centro, Goiânia \/ Goias, Brasil - CEP 123456-789",
+		"site": "http:\/\/www.infoescola.com/plantas/tulipa/",
+		"bio": "Esta planta revela feições e colorações múltiplas. Hoje há inúmeros espécimes e incalculáveis híbridos em variadas cores, tonalidades coloridas e outros apresentando extremidades com diversos picotes. Seu bulbo, na verdade um falso órgão, porque o verdadeiro, em um vegetal, está abaixo da terra, possui uma substância com propriedades alcalinas que, ao ser manuseada, libera um pó que pode desencadear rinites e até crises asmáticas.",
+		"created_at": "2022-12-10T01:44:25.000000Z",
+		"updated_at": "2022-12-10T01:44:25.000000Z",
+		"flowershop": [
+			{
+				"id": 4,
+				"brewery_id": 2,
+				"name": "Tulipa: Black Hero",
+				"image": "images/tulipa_001.png",
+				"style": "Black Hero",
+				"category": "Peônias, plantas angiospermas (plantas com flores)",
+				"active": "SIM",
+				"flower": "Uma tulipa de flores duplas escuras, com pétalas de cetim e uma longa estação duração. Boa para vasos de jardim profundos, fica ótimo com tulipas laranja brilhantes e também é excelente para corte ",
+				"seasonal": "NÃ£o Ã© sazonal",
+				"description": "\nTulip Black Hero é uma impressionante variedade de dupla tardia que produz flores gigantes em forma de peônia. Suas profundas flores marrons / mogno parecem quase pretas, criando um efeito misterioso quando plantadas entre seus canteiros de flores. Black Hero é perfeito para plantar em vasos de pátio, bordas ou como parte de um buquê de flores de corte sazonal. Floresce de abril a maio e cresce até 60cm de altura. Lâmpadas de 11/12cm fornecidas.\n",
+				"created_at": "2022-12-10T19:53:27.000000Z",
+				"updated_at": "2022-12-12T17:48:07.000000Z"
+			},
+			{
+				"id": 5,
+				"brewery_id": 2,
+				"name": "Tulipa: Bailarina",
+				"image": "images/tulipa_002.png",
+				"style": "Bailarina",
+				"category": "Peônias, plantas angiospermas (plantas com flores)",
+				"active": "SIM",
+				"flower": "Tão alta e graciosa quanto seu nome, esta é uma tulipa laranja ousada do tipo flor de lírio em forma de flauta. Também tem o bônus adicional de exalar um perfume adorável ",
+				"description": "\nEsta tulipa canelada com flor de lírio criará uma aparência elegante para qualquer exibição de floração da primavera. Tulip Ballerina tem as mais belas flores alaranjadas coradas com tons sutis de vermelho. As flores vívidas contrastam com as hastes longas de 55-60cm e a folhagem exuberante em forma de lança. Plante ao lado do Tulip West Point para uma exibição brilhante e radiante. Perfeito para recipientes de vasos de pátio, bordas de jardim ou como parte de uma exibição de flores cortadas para ser apreciada dentro da casa. Flores na estação da primavera entre abril e maio. bulbos de 10/11cm fornecidos\n",
+				"link": "https://www.infoescola.com/plantas/tulipa/",
+				"created_at": "2022-12-10T19:53:27.000000Z",
+				"updated_at": "2022-12-12T17:48:07.000000Z"
+			},
+			{
+				"id": 6,
+				"brewery_id": 2,
+				"name": "Tulipa: Belle Époque",
+				"image": "images/tulipa_003.png",
+				"style": "Belle Époque",
+				"category": "Peônias, plantas angiospermas (plantas com flores)",
+				"active": "SIM",
+				"flower": "Uma tulipa de peônia dupla em uma combinação incomum de tons dourados, rosa escuro e rosa salmão com pétalas que se aprofundam na cor à medida que a flor amadurece. ",
+				"description": "\nTulipa La Belle Epoque é uma variedade incomum com misturas incríveis de damasco, rosa e cores de café. Está destinado a ser um futuro clássico e fará uma grande característica em vasos no pátio, bordas ou para arranjos de flores de corte interiores. Altura 45cm. Flores Abril a Maio. 11/12cm bulbos fornecidos.\n",
+				"link": "https://www.infoescola.com/plantas/tulipa/",
+				"created_at": "2022-12-10T19:53:27.000000Z",
+				"updated_at": "2022-12-12T17:48:07.000000Z"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "Rosas",
+		"image": "images/Logo_rosa_001.png",
+		"address": "Rua das Rosas, n° 01 - Centro, Goiânia \/ Goias, Brasil - CEP 123456-789",
+		"site": "https://www.ikebanaflores.com.br/significado-flores-rosas",
+		"bio": "A Rosa é uma das flores mais cultivadas no mundo. Super tradicional e símbolo do amor, a flor rosa é usada para diferentes finalidades: decorar o jardim, compor lindos arranjos de flores para vasos decorativos, enfeitar festas de casamento e aniversário e até ser um belo presente para seu amor. É a flor mais versátil que existe! A flor rosa pertence à família Rosaceae e o gênero rosa conta com mais de 100 espécies e milhares de variações.",
+		"created_at": "2022-12-10T01:44:25.000000Z",
+		"updated_at": "2022-12-10T01:44:25.000000Z",
+		"flowershop": [
+			{
+				"id": 7,
+				"brewery_id": 3,
+				"name": "Rosa: Rainha Elizabeth",
+				"image": "images/rosa_001.png",
+				"style": "Rainha Elizabeth",
+				"category": "São arbustos ou trepadeiras, providos de acúleos.",
+				"active": "SIM",
+				"flower": "Rosa Rainha Elizabeth é uma rosa floribunda confiável que produz grandes flores duplas reais em rosa vívido.",
+				"description": "\nOriginalmente criada na década de 1950 em comemoração à Rainha Elizabeth, a segunda. Com um hábito alto e ereto e fragrância delicada, esta roseira faz um belo espécime autônomo, ou pode ser cultivada como uma sebe ornamental deslumbrante, como ilustrado. Resistente e robusta, a Queen Elizabeth Rose tem excelente resistência a doenças e pode prosperar mesmo em locais aparentemente inóspitos, tornando-se uma excelente escolha para jardineiros de todos os níveis de especialização. Plante a 50cm de distância. Plantas de raízes soltas fornecidas.\n",
+				"created_at": "2022-12-10T19:53:49.000000Z",
+				"updated_at": "2022-12-12T17:48:16.000000Z"
+			},
+			{
+				"id": 8,
+				"brewery_id": 3,
+				"name": "Rosa: Arthur Bell",
+				"image": "images/rosa_002.png",
+				"style": "Arthur Bell",
+				"category": "São arbustos ou trepadeiras, providos de acúleos.",
+				"active": "SIM",
+				"flower": "As rosas Floribunda ou Cluster-flowered são arbustos espessos e verticais com folhagem escura, brilhante, folhagem e flores simples ou duplas, às vezes perfumadas, em pequenos ou grandes cachos do verão ao outono",
+				"description": "\nArthur Bell é um pequeno arbusto de crescimento ereto e espesso, com folhagem verde brilhante brilhante e cachos de flores perfumadas, em copo, duplas de 8cm de largura, abrindo amarelo brilhante, envelhecendo a amarelo-cremoso\n",
+				"created_at": "2022-12-10T19:53:49.000000Z",
+				"updated_at": "2022-12-12T17:48:16.000000Z"
+			},
+			{
+				"id": 9,
+				"brewery_id": 3,
+				"name": "Rosa: Louca - Hibiscus Mutabilis",
+				"image": "images/rosa_003.png",
+				"style": "Hibiscus Mutabilis",
+				"category": "São arbustos ou trepadeiras, providos de acúleos.",
+				"active": "SIM",
+				"flower": "Numa mesma planta da Rosa Louca (Hibiscus mutabilis), durante umas quatro semanas, estarão presentes flores brancas, rosadas, violetas, bordôs e todos os matizes entre essas cores.",
+				"description": "\nO Hibisco Mutabilis é um arbusto muito florífero, de ramos eretos e muito ramificados. Apresenta durante todo ano, grandes folhas verdes serrilhadas fornecendo boa sombra e pouca sujeira nos jardins.\n",
+				"created_at": "2022-12-10T19:53:49.000000Z",
+				"updated_at": "2022-12-12T17:48:17.000000Z"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "Orquídeas",
+		"image": "images/Logo_orqui_001.png",
+		"address": "Rua das Orqíedeas, n° 01 - Centro, Goiânia \/ Goias, Brasil - CEP 123456-789",
+		"site": "https://orquidariobahia.com.br/o-que-sao-orquideas/",
+		"bio": "A origem de uma das plantas mais lindas de todo buquê de flores ainda é um mistério, jardineiros e apaixonados pela beleza das cores de suas pétalas. Com tanto encanto envolvido, há quem se dedique exclusivamente ao cultivo da flor e quem a homenageie em poesias e canções, como o fez o cantor Lenine, intitulando um de seus últimos álbuns com o nome Labiata, o nome de uma das espécies de orquídeas com flores grandes e perfumadas.",
+		"created_at": "2022-12-10T01:44:26.000000Z",
+		"updated_at": "2022-12-10T01:44:26.000000Z",
+		"flowershop": [
+			{
+				"id": 10,
+				"brewery_id": 4,
+				"name": "Orquídea Aranha: Brassia Verrucosa.",
+				"image": "images/orqui_001.png",
+				"style": "Brassia Verrucosa.",
+				"category": ".",
+				"active": "SIM",
+				"flower": "A característica mais marcante da orquídea aranha, Brassia verrucosa, é a presença de pequenas verrugas verdes sobre o labelo branco, que serviram de inspiração para o nome científico desta espécie botânica.",
+				"description": "\nA orquídea aranha é tipicamente epífita, vivendo com as raízes aéreas aderidas aos troncos das árvores de florestas úmidas, tropicais ou subtropicais, em altitudes superiores a mil metros. A espécie Brassia verrucosa está habituada à grande concentração de névoa que encobre as árvores, em seu habitat de origem, o que lhes garante um clima ameno e com elevados índices de umidade relativa do ar.\n",
+				"created_at": "2022-12-10T19:53:52.000000Z",
+				"updated_at": "2022-12-12T17:48:36.000000Z"
+			},
+			{
+				"id": 11,
+				"brewery_id": 4,
+				"name": "Orquídea Maxilaria (Maxillaria Rupestris)",
+				"image": "images/orqui_0023.png",
+				"style": "Orquídeas são todas as plantas que compõem a família Orchidaceae, pertencente à ordem Asparagales",
+				"active": "SIM",
+				"flower": "Planta herbácea perene de porte pequeno, altura até 25 cm, com folhas lisas de consistência coriácea flexíveis. As pétalas são pequenas, delicadas, brancas com amarelo na parte interna, também com pontuações. A pétala diferenciada é branca com os órgãos de reprodução amarelos e vermelhos.",
+				"description": "\nA flor é perfumada com dimensão de 3,5 x 3,3 cm, tem três sépalas longas, amarelas na parte interna e brancas na parte externa com pontuações marrons. A haste floral atinge somente 12 cm, cada uma com uma orquídea bem pequena.\n",
+				"created_at": "2022-12-10T19:53:52.000000Z",
+				"updated_at": "2022-12-12T17:48:36.000000Z"
+			},
+			{
+				"id": 12,
+				"brewery_id": 4,
+				"name": "Orquídea Cattleya Intermedia",
+				"image": "images/orqui_002.png",
+				"style": "Cattleya Intermedia",
+				"category": "Orquídeas são todas as plantas que compõem a família Orchidaceae, pertencente à ordem Asparagales",
+				"active": "SIM",
+				"flower": "O tamanho avantajado das flores, as fantásticas combinações de cores de suas flores, o formato arredondado de suas flores, encantador perfume da maioria das espécies, facilidade de cultivo da maioria das espécies.",
+				"description": "\nA CATTLEYA intermedia é uma orquídea que pertence ao gênero das cattleyas. Ela é nativa do Brasil, sendo encontrada principalmente na região Sul do Brasil, também pode ser encontrada em alguns estados do sudeste. É uma espécie de fácil cultivo, se adapta bem aos diferentes estados brasileiros.\n",
+				"created_at": "2022-12-10T19:53:52.000000Z",
+				"updated_at": "2022-12-12T17:48:37.000000Z"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "Girassol",
+		"image": "images/Logo_girassol_001.png",
+		"address": "Rua do Girassol, n° 01 - Centro, Goiânia \/ Goias, Brasil - CEP 123456-789",
+		"site": "https://portalvidalivre.com/articles/71",
+		"bio": "A flor de girassol tem a cor amarela ou tons de laranja em suas pétalas e seu caule pode atingir até 3 metros de altura. As sementes são usadas para a produção do óleo de cozinha, biodiesel, alimentos de pássaros e até para a produção de esmaltes de unha. Segundo o Feng Shui essa planta atrai sorte e vibrações positivas para o ambiente, além disso, simboliza a integridade e a força.",
+		"created_at": "2022-12-10T01:44:27.000000Z",
+		"updated_at": "2022-12-10T01:44:27.000000Z",
+		"flowershop": [
+			{
+				"id": 13,
+				"brewery_id": 5,
+				"name": "Girassol: Arranha-céu",
+				"image": "images/gira_001.png",
+				"style": "Arranha-céu",
+				"category": "O nome científico de girassol é Helianthus annus, que significa “flor do sol”. ",
+				"active": "SIM",
+				"flower": "O seu caule ereto sempre cresce em direção aos céus, como se quisesse alcançá-lo um dia. É classificado como alto, capaz de atingir até 3,6 metros de altura. Suas pétalas podem ter o comprimento de até 35 centímetros, além de vistosas e bonitas.",
+				"description": "\nO significado do girassol Arranha-céu é crescimento e amadurecimento. Esse é o tipo ideal para você que quer ter uma paisagem belíssima no jardim, e lembre-se de manter uma distância adequada entre as flores para que tenham um bom crescimento, o ideal é entre um metro e meio de espaçamento.\n",
+				"created_at": "2022-12-10T19:54:19.000000Z",
+				"updated_at": "2022-12-12T17:49:22.000000Z"
+			},
+			{
+				"id": 14,
+				"brewery_id": 5,
+				"name": "Girassol Gigante Americano",
+				"image": "images/gira_002.png",
+				"style": "Gigante Americano",
+				"category": "O nome científico de girassol é Helianthus annus, que significa “flor do sol”. ",
+				"active": "SIM",
+				"flower": "Para se desenvolver a essa altura, essa espécie necessita de caules extremamente resistentes e grossos, aptos para sustentarem as flores que medem 30 centímetros. Isso o torna uma das flores mais fortes e resistentes. Outra curiosidade é que a cabeça da flor pode medir até um metro de largura, equivalente a três pés",
+				"description": "\nNDos girassóis altos, este é o que tem a maior altura registrada até o momento, como o próprio nome sugere. O girassol Gigante Americano cresce até 4,8 metros, aproximadamente 16 pés. Podemos comparar a altura da flor com a da janela do andar de cima de uma casa do Reino Unido, e o seu porte enorme faz jus ao seu significado de força.\n",
+				"created_at": "2022-12-10T19:54:19.000000Z",
+				"updated_at": "2022-12-12T17:49:22.000000Z"
+			},
+			{
+				"id": 15,
+				"brewery_id": 5,
+				"name": "Girassol Pacino",
+				"image": "images/gira_003.png",
+				"style": "Pacino",
+				"category": "O nome científico de girassol é Helianthus annus, que significa “flor do sol”. ",
+				"active": "SIM",
+				"flower": "Eles produzem inúmeras flores e botões num só caule, são muito lindos para arranjos de verão. Para você que gosta de arranjo, uma dica válida é optar por um vaso simples de cor neutra, assim dará destaque a essas lindas flores.",
+				"description": "\nO girassol Pacino pode significar muita coisa: alegria, lealdade, sinceridade e recordações. Ela é uma flor ideal para presentear alguém muito querido! Faz parte do grupo de girassóis curtos, ou seja, uma ótima opção para cultivar nas jardineiras. Seu tamanho é por volta dos 60 centímetros, aproximadamente 2 pés, apresentando longas pétalas amareladas.\n",
+				"created_at": "2022-12-10T19:54:19.000000Z",
+				"updated_at": "2022-12-12T17:49:23.000000Z"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"name": "Margaridas",
+		"image": "images/Logo_margaridas_001.png",
+		"address": "Rua das Margaridas, n° 01 - Centro, Goiânia \/ Goias, Brasil - CEP 123456-789",
+		"site": "https://www.cpt.com.br/cursos-floricultura-jardinagem/artigos/11-tipos-de-margarida-mais-comuns",
+		"bio": "A margarida é uma flor delicada e uma das mais conhecidas na hora de presentear. Além de ter várias opções de cores, com margarida amarela, vermelha ou branca, formando assim um lindíssimo buquê. As margaridas também são conhecidas como mal-me-quer, crisântemo, bem-me-quer, bonina, margarita, margarita-maior, mal-me-quer-bravo e olho-de-boi.",
+		"created_at": "2022-12-10T01:44:28.000000Z",
+		"updated_at": "2022-12-10T01:44:28.000000Z",
+		"flowershop": [
+			{
+				"id": 16,
+				"brewery_id": 6,
+				"name": "Margarida: Camomila",
+				"image": "images/margarida_001.png",
+				"style": "Camomila",
+				"active": "SIM",
+				"category": "A margarida (Chysantehemum leucanthemum), também conhecida como bem-me-quer e malmequer, pertence à mesma família do girassol (Asteraceae)",
+				"description": "\nA camomila é uma planta medicinal de pétalas brancas e centro amarelo, que é muito utilizada na preparação de infusões para tratar ansiedade, insônia, má digestão e cólica menstrual. Além disso, também tem excelentes propriedades cicatrizantes, podendo ser usada para ajudar na cicatrização de feridas. Suas pétalas são finas e largas, circundando o botão floral central amarelo. Enquanto suas folhas são ovais, seus caules são finos e longos alcançando até 1 metro de altura",
+				"flower": "A principal diferença é que a Camomila romana se desenvolve como forração, enquanto a alemã cresce na vertical e pode atingir até 30 cm de altura”,",
+				"created_at": "2022-12-10T20:17:30.000000Z",
+				"updated_at": "2022-12-12T17:55:36.000000Z"
+			},
+			{
+				"id": 17,
+				"brewery_id": 6,
+				"name": "Margarida: Rainha ou Áster (Callistephus chinensis)",
+				"image": "images/margarida_002.png",
+				"style": "Rainha ou Áster (Callistephus chinensis)",
+				"category": "A margarida (Chysantehemum leucanthemum), também conhecida como bem-me-quer e malmequer, pertence à mesma família do girassol (Asteraceae)",
+				"active": "SIM",
+				"flower": "A rainha-margarida, também conhecida como áster da China, é um tipo de margarida com flores nas cores branca, rosa (claro ou escuro) e violeta. Seus capítulos são simples, dobrados e isolados. Suas folhas têm cor verde-escura na parte superior e branca na parte inferior, com bordas recortadas apresentando pilosidades.",
+				"description": "\nO áster é uma planta anual, de floração ornamental, que surpreende a todos com suas flores coloridas em tons de aquarela, atualmente as variedades mais frequentes são dobradas, com inflorescências cheias, esféricas. Suas cores variam de tons delicados de azul, rosa, vermelho, branco e violeta. Floresce no verão e outono. O áster é ideal para a formação de maciços e bordaduras no jardim. Suas flores são como pequenos pompons!\n",
+				"created_at": "2022-12-10T20:17:30.000000Z",
+				"updated_at": "2022-12-12T17:55:37.000000Z"
+			},
+			{
+				"id": 18,
+				"brewery_id": 6,
+				"name": "Margarida: Trepadeira hera do Cabo",
+				"image": "images/margarida_003.png",
+				"style": "Trepadeira hera do Cabo (Senecio macroglossus)",
+				"category": "A margarida (Chysantehemum leucanthemum), também conhecida como bem-me-quer e malmequer, pertence à mesma família do girassol (Asteraceae)",
+				"active": "SIM",
+				"flower": "Planta herbácea trepadeira de longos e finos ramos, muito ramificada, com folhas semelhantes à hera, verde-escuras variegadas de creme de forma triangular e coriáceas, de aparência semelhante às da hera (Hedera helix), de lento crescimento.",
+				"description": "\nFácil de cuidar e versátil, a hera é uma planta perfeita para se ter em casa e dar aquele toque de vida para o ambiente, seja como uma linda trepadeira ou em cascata. Por se adaptar muito bem em qualquer clima, é uma excelente opção para quem não tem muita prática em cuidar de plantas.\n",
+				"created_at": "2022-12-10T20:17:30.000000Z",
+				"updated_at": "2022-12-12T17:55:38.000000Z"
+			}
+		]
+	},
+	{
+		"id": 7,
+		"name": "LISIANTHUS",
+		"image": "images/Logo_lishan_001.png",
+		"address": "Rua dos lisianthus, n° 01 - Centro, Goiânia \/ Goias, Brasil - CEP 123456-789",
+		"site": "https://www.emporiodassementes.com.br/flores/lisianto/lisianto-arena-rose-lisianthus",
+		"bio": "O lisianthus se destaca pelo seu formato delicado, cores suaves e belo significado que carrega. O seu nome nada convencional deriva dos termos gregos lisos, que significa macio, e anthos, que significa flor. Tudo a ver com sua aparência, não é mesmo? Na natureza, o lisianthus é encontrado nos tons de branco e roxo. Mas o desenvolvimento de espécies híbridas originou as espécies rosa, azul e lilás, incluindo as tonalidades mescladas.",
+		"created_at": "2022-12-10T01:44:29.000000Z",
+		"updated_at": "2022-12-10T01:44:29.000000Z",
+		"flowershop": [
+			{
+				"id": 19,
+				"brewery_id": 7,
+				"name": "Lisianto Rosita Blue",
+				"image": "images/lishan_001.png",
+				"style": "LISIANTHUS (Eustoma russellianum)",
+				"category": "Seu nome vem do grego: lisos significa macio, e anthos, flor. Ela também é chamada de Pradaria Genciana e, no Brasil, de Lisianto.",
+				"active": "SIM",
+				"flower": "A flor cortada e utilizada em arranjos tem uma duração considerada longa, podendo durar até 10 dias quando cuidada de forma adequada.",
+				"description": "\nO lisianto é uma planta linda, de popularização crescente, principalmente como flor-de-corte. Sua folhagem é ereta, pouco ramificada e suas folhas são oval-lanceoladas, opostas, coloração azulescuro.\n",
+				"created_at": "2022-12-12T12:12:25.000000Z",
+				"updated_at": "2022-12-12T18:39:55.000000Z"
+			},
+			{
+				"id": 20,
+				"brewery_id": 7,
+				"name": "Lisianto Arena Rose",
+				"image": "images/lishan_002.png",
+				"style": "LISIANTHUS (Eustoma russellianum)",
+				"category": "Seu nome vem do grego: lisos significa macio, e anthos, flor. Ela também é chamada de Pradaria Genciana e, no Brasil, de Lisianto.",
+				"active": "SIM",
+				"flower": "A flor cortada e utilizada em arranjos tem uma duração considerada longa, podendo durar até 10 dias quando cuidada de forma adequada.",
+				"description": "\nO lisianto é uma planta linda, de popularização crescente, principalmente como flor-de-corte. Sua folhagem é ereta, pouco ramificada e suas folhas são oval-lanceoladas, opostas, coloração rosa clara\n",
+				"created_at": "2022-12-12T12:12:26.000000Z",
+				"updated_at": "2022-12-12T18:39:56.000000Z"
+			},
+			{
+				"id": 21,
+				"brewery_id": 7,
+				"name": "Lisianto Rosanne",
+				"image": "images/lishan_003.png",
+				"style": "LISIANTHUS (Eustoma russellianum)",
+				"category": "Seu nome vem do grego: lisos significa macio, e anthos, flor. Ela também é chamada de Pradaria Genciana e, no Brasil, de Lisianto.",
+				"active": "SIM",
+				"flower": "A flor cortada e utilizada em arranjos tem uma duração considerada longa, podendo durar até 10 dias quando cuidada de forma adequada.",
+				"description": "\nO lisianto é uma planta linda, de popularização crescente, principalmente como flor-de-corte. Sua folhagem é ereta, pouco ramificada e suas folhas são oval-lanceoladas, opostas, coloração amarela acizentada.\n",
+				"created_at": "2022-12-12T12:12:26.000000Z",
+				"updated_at": "2022-12-12T18:39:56.000000Z"
+			}
+		]
+	},
+	{
+		"id": 9,
+		"name": "Lírios",
+		"image": "images/Logo_lirios_001.png",
+		"address": "Rua dos Lírios, n° 01 - Centro, Goiânia \/ Goias, Brasil - CEP 123456-789",
+		"site": "https://blog.cobasi.com.br/lirio-asiatico/",
+		"bio": "Os lírios estão entre as flores mais conhecidas do planeta, atrás apenas das rosas. Pertencentes à família Liliaceae, têm uma beleza e um perfume inebriante que fazem com que elas sejam apreciadas por floristas, jardineiros e qualquer pessoa apaixonada por belas plantas. Por não gostarem da incidência direta do sol, são perfeitas para o interior da casa e, quando colocadas em vasos e arranjos, são capazes de trazer frescor a qualquer ambiente e mais vida à decoração.",
+		"created_at": "2022-12-10T01:44:30.000000Z",
+		"updated_at": "2022-12-10T01:44:30.000000Z",
+		"flowershop": [
+			{
+				"id": 22,
+				"brewery_id": 9,
+				"name": "Lírio Oriental",
+				"image": "images/lirio_001.png",
+				"style": "Lírio Oriental (Lilium speciosum)",
+				"category": "Os lírios são as flores do gênero Lilium da família Liliaceae, originárias do hemisfério norte com ocorrências na Europa, Ásia, América do Norte, e América do Sul. ",
+				"active": "SIM",
+				"flower": "Planta herbácea bulbosa, de altura até 1,20 metros, sem ramificações. O talo é verde e cilíndrico e as folhas são ovais acuminadas de nervuras longitudinais. As flores têm pecíolo curto, saindo da axila das gemas mais apicais.",
+				"description": "\nO significado dos lírios pode variar de acordo com a coloração de suas pétalas. Mas, de modo geral, a espécie é muito associada ao romantismo e simboliza a pureza, a inocência e o amor puro. A flor deve ser colocada em um cômodo quente, próxima a uma janela, mas nunca diretamente debaixo dela. Assim, ela receberá bastante luz solar indireta. O ideal é escolher uma janela virada para o norte ou o oeste, que não recebe luz direta o dia inteiro.\n",
+				"created_at": "2022-12-10T20:17:34.000000Z",
+				"updated_at": "2022-12-12T17:55:57.000000Z"
+			},
+			{
+				"id": 23,
+				"brewery_id": 9,
+				"name": "Lírio Asiático",
+				"image": "images/lirio_002.png",
+				"style": "Lírio Asiático",
+				"category": "Os lírios são as flores do gênero Lilium da família Liliaceae, originárias do hemisfério norte com ocorrências na Europa, Ásia, América do Norte, e América do Sul. ",
+				"active": "SIM",
+				"flower": "Podendo alcançar até 50 centímetros de altura, possui flores em uma ampla paleta de cores. Apesar de caracterizada por seu tom alaranjado, também tem o lírio asiático rosa, branco, roxo e creme.",
+				"description": "\nOriginário da China, o lírio asiático é resultado de diversas variedades híbridas, ou seja, cruzamentos genéticos de espécies originárias do leste asiático. Comparando a outras espécies da mesma família, a versão asiática apresenta algumas diferenças. Por exemplo, ao contrário dos lírios longiflorum, a planta não exala muito perfume e possui flores menores.\n",
+				"created_at": "2022-12-10T20:17:34.000000Z",
+				"updated_at": "2022-12-12T17:55:58.000000Z"
+			},
+			{
+				"id": 24,
+				"brewery_id": 9,
+				"name": "Lírio longiflorum:",
+				"image": "images/lirio_003.png",
+				"style": "Lírio longiflorum:",
+				"category": "Os lírios são as flores do gênero Lilium da família Liliaceae, originárias do hemisfério norte com ocorrências na Europa, Ásia, América do Norte, e América do Sul. ",
+				"active": "SIM",
+				"flower": "Os lírios da variedade longuiflorum só florescem nas cores branca e creme e apresentam flores grandes.Os lírios precisam de muita luz solar e substrato com bom escoamento. Se você for plantá-los diretamente no solo, observe a região do seu jardim que costuma secar mais rápido depois da chuva",
+				"description": "\nLírio longiflorum: diferente dos dois apresentados, essa variedade só floresce em tom branco. Podendo chegar até 1,2 metros de altura, essa espécie conta com flores em formato de trompetes. Com folhas distribuídas ao longo do caule, a planta conta com um suave aroma. Você pode cultivar essa planta a pleno sol em canteiros.\n",
+				"created_at": "2022-12-10T20:17:34.000000Z",
+				"updated_at": "2022-12-12T17:55:58.000000Z"
+			}
+		]
+	},
+	{
+		"id": 10,
+		"name": "Violetas",
+		"image": "images/Logo_violetas_001.png",
+		"address": "Rua das Violetas, n° 01 - Centro, Goiânia \/ Goias, Brasil - CEP 123456-789",
+		"site": "https://pt.wikipedia.org/wiki/Viola_(planta)",
+		"bio": "A violeta flor deve ser regada diariamente com pouca quantidade de água, nunca molhe as folhas das violetas. As violetas demoram algum tempo para se adaptar ao novo vaso; O significado da flor violeta é lealdade, mas algumas pessoas também consideram que as violetas representam a modéstia, significado da flor violeta está vinculado as suas cores como a espécie de cor roxa que é atribuída ao mistério de magia e espiritualidade.",
+		"created_at": "2022-12-10T01:44:33.000000Z",
+		"updated_at": "2022-12-10T01:44:33.000000Z",
+		"flowershop": [
+			{
+				"id": 25,
+				"brewery_id": 10,
+				"name": "Viola arvensis - Violeta dos campos",
+				"image": "images/viola_001.png",
+				"style": "Viola arvensis",
+				"category": "Viola é um género botânico pertencente à família Violaceae. Inclui várias espécies popularmente conhecidas como violetas e amores-perfeitos. De notar que a violeta-africana não pertence a este género.",
+				"active": "SIM",
+				"flower": "Considerado uma espécie invasora em algumas regiões, o amor-Perfeito também é admirado como planta ornamental. Ele é normalmente cultivado em canteiros e vasos e pode ser observado crescendo autonomamente em campos, terrenos baldios e rochas. O amor-Perfeito é atraente para borboletas, mariposas, abelhas, pássaros canoros (que cantam) e outros polinizadores.",
+				"description": "\nA violeta-dos-campos, amor-perfeito-bastardo, amor-perfeito-bravo, erva-da-trindade ou violeta-dos-prados (Viola arvensis) é uma espécie do género Viola. É nativa da Europa. É das primeiras violetas a aparecer na primavera, e aparentemente usa uma espécie de retardante de crescimento para as plantas circundantes, parecendo ser a única planta a desenvolver-se em grandes tufos. Longe destas colónias, as ervas apresentam um crescimento normal.\n",
+				"created_at": "2022-12-12T13:05:30.000000Z",
+				"updated_at": "2022-12-12T18:43:52.000000Z"
+			},
+			{
+				"id": 26,
+				"brewery_id": 10,
+				"name": "Viola canina",
+				"image": "images/viola_002.png",
+				"style": "Viola canina",
+				"category": "Viola é um género botânico pertencente à família Violaceae. Inclui várias espécies popularmente conhecidas como violetas e amores-perfeitos. De notar que a violeta-africana não pertence a este género.",
+				"active": "SIM",
+				"flower": "Corolla zigomórfico, azul, partes internas brancas (em raras ocasiões completamente brancas), aprox. 0,7–2,5 cm (0,28–1 pol.) de largura; pétalas 5, mais baixas com esporão branco esverdeado-amarelado. Sépalas 5. Estâmons 5. Gynoecium fundido, de estilo único. Flores solitárias em axilas, acenando com a cabeça.",
+				"description": "\nViola canina é uma espécie de planta com flor pertencente à família Violaceae. A autoridade científica da espécie é L., tendo sido publicada em Species Plantarum 2: 935. 1753.\n",
+				"link": "https:\/\/www.brejas.com.br\/cerveja\/brasil\/dengo-cafe-and-cacau-american-pilsen",
+				"created_at": "2022-12-12T13:05:30.000000Z",
+				"updated_at": "2022-12-12T18:43:52.000000Z"
+			},
+			{
+				"id": 27,
+				"brewery_id": 10,
+				"name": "Violeta adunca – Violeta Azul Precoce",
+				"image": "images/viola_003.png",
+				"style": "Violeta adunca",
+				"category": "Viola é um género botânico pertencente à família Violaceae. Inclui várias espécies popularmente conhecidas como violetas e amores-perfeitos. De notar que a violeta-africana não pertence a este género.",
+				"active": "SIM",
+				"flower": " As flores têm um esporão delgado que é metade do comprimento da pétala mais baixa; as três pétalas inferiores geralmente têm uma base esbranquiçada ou destaques esbranquiçados, o par lateral de pétalas é de barba branca. A cor primária é azul a violeta profundo e eles têm aproximadamente 1,5 cm de comprimento.",
+				"description": "\nViola adunca é uma espécie de violeta conhecida pelos nomes comuns de violeta de espora de gancho, violeta azul precoce, violeta de areia e violeta de cachorro ocidental. É nativo de prados e florestas do oeste da América do Norte, Canadá e norte dos Estados Unidos contíguos.\n",
+				"link": "https:\/\/www.brejas.com.br\/cerveja\/brasil\/dengo-cafe-and-cacau-american-pilsen",
+				"created_at": "2022-12-12T13:05:30.000000Z",
+				"updated_at": "2022-12-12T18:43:52.000000Z"
+			}
+		]
+	},
+	{
+		"id": 11,
+		"name": "Astromélias",
+		"image": "images/Logo_astromelias_001.png",
+		"address": "Rua das Astromelias, n° 01 - Centro, Goiânia \/ Goias, Brasil - CEP 123456-789",
+		"site": "https://www.ikebanaflores.com.br/blog/astromelia/",
+		"bio": "A astromélia é uma flor versátil, muito usada na decoração de festas e eventos, como também para harmonização de ambientes em casas e apartamentos. É uma opção perfeita para presentear amigos, já que é considerada a flor da amizade, e também pode simbolizar respeito, devoção, compreensão e empatia. É uma flor de corte e você pode encontrá-la em floriculturas e lojas. Ela pode ser cultivada em vasos e também ser plantada no jardim.",
+		"created_at": "2022-12-10T01:44:33.000000Z",
+		"updated_at": "2022-12-10T01:44:33.000000Z",
+		"flowershop": [
+			{
+				"id": 28,
+				"brewery_id": 11,
+				"name": "Astromélia aurea",
+				"image": "images/astro_001.png",
+				"style": "Astromélia aurea",
+				"category": "Astromélia é um género botânico pertencente à família Alstroemeriaceae. Em português é também conhecida por Astromélia. Nome científico: Alstroemeria, Classificação superior: Alstroemerieae. Classe: Liliopsida. Divisão: Magnoliophyta. Família: Alstroemeriaceae. Ordem: Liliales. Reino: Plantae",
+				"active": "SIM",
+				"flower": "O lírio peruano pertence a um gênero de plantas floríferas (Alstroemeria) muito cultivadas como plantas ornamentais. As flores, que podem sobreviver por até duas semanas em água, são bastante usadas em arranjos e buquês. Em algumas regiões, a lírio peruano pode se comportar como uma espécie invasora. O termo aurea em seu nome científico (Alstroemeria aurea) é uma referência à sua cor, pois significa “dourado”",
+				"description": "\nÉ a espécie de astromélia mais popular, é a famosa astromélia laranja. Popularmente ela recebe o nome de madressilva e é uma flor muito comum nas floriculturas de todo o país. Sua cor é inconfundível, pois além do tom alaranjado chamativo, no seu miolo tem manchas em tons mais escuros que dão um destaque à flor.\n",
+				"created_at": "2022-12-12T13:05:30.000000Z",
+				"updated_at": "2022-12-12T18:43:52.000000Z"
+			},
+			{
+				"id": 29,
+				"brewery_id": 11,
+				"name": "Astromélia psittacina",
+				"image": "images/astro_002.png",
+				"style": "Astromélia psittacina",
+				"category": "Astromélia é um género botânico pertencente à família Alstroemeriaceae. Em português é também conhecida por Astromélia. Nome científico: Alstroemeria, Classificação superior: Alstroemerieae. Classe: Liliopsida. Divisão: Magnoliophyta. Família: Alstroemeriaceae. Ordem: Liliales. Reino: Plantae",
+				"active": "SIM",
+				"flower": "Com uma centena de espécies, as lírio-dos-incas são plantas nativas da América Latina e têm ocorrência no Brasil. As lírio-dos-incas chamam a atenção graças às suas flores coloridas e que compõem uma série de cultivares diferenciados. Por isso, são cultivadas no mundo todo e existe uma potente rede de comércio que apoia o seu interesse ornamental.",
+				"description": "\nEsta espécie se destaca pela sua cor vermelha. A astromélia psittacina, diferente das outras, gosta de áreas bem ensolaradas, mas claro que ela precisa de proteção, não podendo ficar exposta ao sol por muitas horas. No Brasil pode ser encontrada nos biomas do Pantanal e Cerrado. Como sua distribuição é mais restrita, ela não é tão comum nas floriculturas, mas não é impossível encontrá-la. Por ter uma cor tão chamativa, como o vermelho, também é ótima para presentear alguém ou para decorar o ambiente.\n",
+				"created_at": "2022-12-12T13:05:30.000000Z",
+				"updated_at": "2022-12-12T18:43:53.000000Z"
+			},
+			{
+				"id": 30,
+				"brewery_id": 11,
+				"name": "Astromélia Tesronto",
+				"image": "images/astro_003.png",
+				"style": "Astromélia Tesronto",
+				"category": "Alstroemeria é um género botânico pertencente à família Alstroemeriaceae. Em português é também conhecida por Astromélia. Nome científico: Alstroemeria, Classificação superior: Alstroemerieae. Classe: Liliopsida. Divisão: Magnoliophyta. Família: Alstroemeriaceae. Ordem: Liliales. Reino: Plantae",
+				"active": "SIM",
+				"flower": "Esta variedade foi criada para resistência ao frio e deve tolerar temperaturas tão baixas quanto 5  F, particularmente se coberta de palha. Ao aparar ou cortar Alstroemeria para flores, puxe os caules para fora para que eles se quebrem abaixo do solo na coroa para estimular a formação de novos brotos, mas faça isso com cuidado para não retirar pedaços do próprio rizoma. Esta planta tem sido incrivelmente longa florescendo nos jardins costeiros da Califórnia e com suas ricas folhas de bronze (quando cultivadas em pelo menos meio dia de sol) e flores alegres brilhantes decorará qualquer jardim.",
+				"description": "\nEsta espécie pode ser conhecida fora do Brasil como Indian summer, verão indiano, fazendo alusão ao período em que suas flores brotam. O seu colorido é exuberante, as pétalas apresentam uma coloração amarelo-laranja com manchas vermelhas e em suas partes internas possuem listras marrons. A Astromélia Tesronto não é uma das mais populares, mas com certeza está entre as mais exuberantes das astromélias, sua mescla de cores faz com que ela seja ainda mais bela. É muito utilizada para decoração de eventos, festas e decoração de interiores, devido a sua aparência embelezar qualquer lugar.\n",
+				"created_at": "2022-12-12T13:05:30.000000Z",
+				"updated_at": "2022-12-12T18:43:53.000000Z"
+			}
+		]
+	}
+]
